@@ -41,7 +41,7 @@ function draw() {
   box3.display();
   box4.display();
   box5.display();
-  box6.dispaly();
+  box6.display();
 
   hero.display();
   rope.display();
